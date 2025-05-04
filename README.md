@@ -6,7 +6,7 @@ TOMATO is a modern food delivery web application built with **React** and **Tail
 
 ## 🚀 Live Demo
 
-🔗 [View Live](https://your-live-link.com)
+🔗 [View Live](https://tomato-food-delivery-theta.vercel.app/)
 
 ---
 
@@ -36,7 +36,7 @@ TOMATO is a modern food delivery web application built with **React** and **Tail
 | React        | UI Components & SPA structure |
 | Tailwind CSS | Utility-first styling         |
 | React Router | Navigation between pages      |
-| Vite / CRA   | Development server and build  |
+| Vite         | Development server and build  |
 | Context API  | State Management              |
 
 ---
@@ -45,10 +45,10 @@ TOMATO is a modern food delivery web application built with **React** and **Tail
 
 ```
 src/
-├── assets/        # Images, icons
+├── Assets/        # Images, icons
 ├── components/    # Reusable UI components
-├── pages/         # Homepage, Meal page, Cart, etc.
-├── context/       # Global state (if any)
+├── pages/         # Homepage, Meal page, Cart.
+├── context/       # Global state
 ├── App.jsx        # Main app component
 ├── main.jsx       # Entry point
 └── index.css      # Tailwind base styles
@@ -61,8 +61,8 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tomato.git
-cd tomato
+git clone https://github.com/Ghonamy/TOMATO-Food-Delivery.git
+cd Food Delivery
 ```
 
 ### 2. Install dependencies
@@ -84,26 +84,10 @@ npm run dev
 ## 📌 Future Improvements
 
 - 🧾 Add user authentication
-- 🗺️ Map integration for delivery tracking
 - 📦 Backend API integration (e.g., Firebase, Express.js)
-- 📱 PWA support for mobile app experience
 - 🧑‍🍳 Admin dashboard to manage meals
 
 ---
 
-## 🧠 What I Learned
-
-- Creating a modern layout using Tailwind
-- Building reusable components in React
-- Managing state and props effectively
-- Structuring a scalable frontend project
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ### 💬 Feel free to fork, clone, and customize!
