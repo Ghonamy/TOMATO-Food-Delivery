@@ -12,8 +12,8 @@ TOMATO is a modern food delivery web application built with **React** and **Tail
 
 ## 🖼️ Screenshots
 
-![Home](./screenshots/home.png)
-![Cart](./screenshots/cart.png)
+![Home](./Home.png)
+![Cart](./Cart.png)
 
 ---
 
