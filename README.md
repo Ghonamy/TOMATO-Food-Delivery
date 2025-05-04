@@ -1,4 +1,4 @@
-# 🍔 TOMATO — Food Delivery Web App
+# 🍔 TOMATO - Food Delivery Web App
 
 TOMATO is a modern food delivery web application built with **React** and **Tailwind CSS**. It provides users with a smooth browsing experience to explore meals, add them to cart, and place an order with ease. The design is fully responsive and optimized for both desktop and mobile.
 
@@ -6,7 +6,7 @@ TOMATO is a modern food delivery web application built with **React** and **Tail
 
 ## 🚀 Live Demo
 
-🔗 [View Live](https://tomato-food-delivery-theta.vercel.app/)
+## 🔗 [Click Here To View](https://tomato-food-delivery-theta.vercel.app/)
 
 ---
 
