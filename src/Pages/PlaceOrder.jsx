@@ -7,7 +7,7 @@ const PlaceOrder = () => {
   return (
     <div className="container mx-auto py-5 px-5 md:px-10 lg:px-20">
       <div className="flex flex-col lg:flex-row items-center mt-20 mb-36 gap-10">
-        <div className="w-full lg:w-[50%] mr-20">
+        <div className="w-full lg:w-[50%] mr-0 lg:mr-20">
           <h2 className="text-[30px] font-semibold mb-8">
             Delivery Information
           </h2>
