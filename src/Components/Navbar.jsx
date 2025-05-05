@@ -91,7 +91,7 @@ const Navbar = ({ setShowLogin }) => {
       {/* Mobile Menu */}
       {isOpen && (
         <ul
-          className={`md:hidden flex flex-col items-center gap-8 bg-[#ff6347] rounded p-10 transition-transform duration-500 ease-in-out transform absolute h-[50vh] w-[90vw] top-20 left-1/2 -translate-x-1/2 z-50 ${
+          className={`md:hidden flex flex-col items-center gap-8 bg-[#ff6347] rounded p-10 transition-transform duration-500 ease-in-out transform absolute h-[60vh] w-[90vw] top-20 left-1/2 -translate-x-1/2 z-50 ${
             isOpen
               ? "scale-100 opacity-100"
               : "scale-0 opacity-0 pointer-events-none"
