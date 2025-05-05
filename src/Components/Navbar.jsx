@@ -76,7 +76,7 @@ const Navbar = ({ setShowLogin }) => {
             <FaShoppingCart className="text-[35px] cursor-pointer text-[#49557e]" />
           </Link>
           <div className="bg-[#ff6347] h-[20px] w-[20px] rounded-full -ml-[30px] -mt-[20px] flex justify-center items-center text-white text-[14px]">
-            5
+            {getCartItemsCount()}
           </div>
           <div
             onClick={() => setIsOpen(!isOpen)}
